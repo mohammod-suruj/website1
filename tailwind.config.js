@@ -2,7 +2,12 @@
 module.exports = {
   content: ["./dist/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'btn-bg': '#FF4240',
+        
+      },
+    },
   },
   plugins: [require("daisyui")],
 }
