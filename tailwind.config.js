@@ -6,6 +6,10 @@ module.exports = {
       colors: {
         'btn-bg': '#FF4240',
         
+        
+      },
+      height: {
+        'h-1' :'34rem',
       },
     },
   },
