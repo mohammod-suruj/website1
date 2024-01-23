@@ -5,6 +5,13 @@ module.exports = {
     extend: {
       colors: {
         'btn-bg': '#FF4240',
+        'btn-1': '#f8fdf0',
+        'btn-2': '#fffcef',
+        'btn-3': '#eff5fe',
+
+
+
+
         
         
       },
